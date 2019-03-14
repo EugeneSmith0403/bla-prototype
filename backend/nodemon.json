@@ -1,0 +1,7 @@
+{
+  "env": {
+    "secretAppKey": "ekaTestKey",
+    "port": 3000,
+    "dataBasePassword": "12345"
+  }
+}
